@@ -1,0 +1,186 @@
+ID,Akteure,Phase,Grobphase,Input,Output II,Direkt vs Indirekt,Zielunterstützung,alt Zielunterstützung
+CP01,Zwischenhändler,B1,Bindung,Beacon,Mobile Meldung,Direkt,Mobile Meldung,Überraschung
+CP01,Zwischenhändler,B1.1,Bindung,Beacon,Mobile Meldung,Direkt,Mobile Meldung,Überraschung
+CP01,Zwischenhändler,B2,Bindung,Beacon,Mobile Meldung,Direkt,Mobile Meldung,Loyalitätsprogramm
+CP02,Hersteller,A1,Akquisition,Cookies,Offline Material,Indirekt,Social Media,
+CP02,Hersteller,A1,Akquisition,Quiz,Offline Material,Indirekt,Social Media,
+CP02,Hersteller,A2,Akquisition,Cookies,Offline Material,Indirekt,Vorteil,
+CP02,Hersteller,A2,Akquisition,Quiz,Offline Material,Indirekt,Vorteil,
+CP02,Hersteller,B1,Bindung,Cookies,Offline Material,Direkt,Offline Material,Überraschung
+CP02,Hersteller,B1,Bindung,Quiz,Offline Material,Direkt,Offline Material,Überraschung
+CP02,Hersteller,B1.1,Bindung,Cookies,Offline Material,Direkt,Offline Material,Überraschung
+CP02,Hersteller,B1.1,Bindung,Quiz,Offline Material,Direkt,Offline Material,Überraschung
+CP03,Hersteller,B1,Bindung,Standort,Web Darstellung,Direkt,Web Darstellung,Nützlichkeit
+CP03,Hersteller,B1.1,Bindung,Standort,Web Darstellung,Direkt,Web Darstellung,Nützlichkeit
+CP04,Hersteller,A1,Akquisition,Kamera,Mobile Darstellung,Indirekt,Share button,
+CP04,Hersteller,A2,Akquisition,Kamera,Mobile Darstellung,Indirekt,Vorteil,
+CP04,Hersteller,B1,Bindung,Kamera,Mobile Darstellung,Direkt,Mobile Darstellung,Nützlichkeit
+CP04,Hersteller,B1,Bindung,Kamera,Mobile Darstellung,Indirekt,Anleitung durch Spezialisten,Nützlichkeit
+CP04,Hersteller,B1.1,Bindung,Kamera,Mobile Darstellung,Direkt,Mobile Darstellung,Nützlichkeit
+CP04,Hersteller,B1.5,Bindung,Kamera,Mobile Darstellung,Indirekt,Anleitung durch Spezialisten,Nützlichkeit
+CP04,Hersteller,B2,Bindung,Kamera,Mobile Darstellung,Direkt,Mobile Darstellung,Empfehlung
+CP05,Hersteller,A1,Akquisition,Quiz,Web Darstellung,Indirekt,Share button,
+CP05,Hersteller,A2,Akquisition,Quiz,Web Darstellung,Indirekt,Ladenbesuch,
+CP05,Hersteller,B2,Bindung,Quiz,Web Darstellung,Direkt,Web Darstellung,Empfehlung
+CP05,Hersteller,B2,Bindung,Quiz,Web Darstellung,Indirekt,Nachschubservice,Nachschubservice
+CP06,Zwischenhändler,B1,Bindung,Transaktionen,Kommunikation/Email,Direkt,Kommunikation/Email,Nachkaufsnachricht
+CP06,Zwischenhändler,B1.4,Bindung,Transaktionen,Kommunikation/Email,Direkt,Kommunikation/Email,Nachkaufsnachricht
+CP06,Zwischenhändler,B2,Bindung,Transaktionen,Kommunikation/Email,Direkt,Kommunikation/Email,Cross-Selling
+CP06,Zwischenhändler,B2,Bindung,Transaktionen,Kommunikation/Email,Indirekt,Nachschubservice,Nachschubservice
+CP07,Hersteller,A1,Akquisition,Cookies,Web Ads,Direkt,Web Ads,
+CP07,Hersteller,A2,Akquisition,Cookies,Web Ads,Direkt,Web Ads,
+CP08,Partner,A1,Akquisition,Quiz,Offline Material,Indirekt,Social Media,
+CP08,Partner,A2,Akquisition,Quiz,Offline Material,Indirekt,Vorteil,
+CP08,Partner,B2,Bindung,Quiz,Offline Material,Indirekt,Nachschubservice,Nachschubservice
+CP09,Hersteller,A2,Akquisition,Cookies,Kommunikation/Email,Indirekt,Opt-in,
+CP09,Hersteller,B2,Bindung,Cookies,Kommunikation/Email,Direkt,Kommunikation/Email,Erinnerung
+CP10,Hersteller,A1,Akquisition,Nutzermeldung,Kommunikation/Email,Direkt,Kommunikation/Email,
+CP11,Zwischenhändler,A2,Akquisition,In-store digital,Web Darstellung,Indirekt,Vorteil,
+CP11,Zwischenhändler,A2,Akquisition,Scan,Web Darstellung,Indirekt,Vorteil,
+CP11,Zwischenhändler,B2,Bindung,In-store digital,Web Darstellung,Direkt,Web Darstellung,Empfehlung
+CP11,Zwischenhändler,B2,Bindung,Scan,Web Darstellung,Direkt,Web Darstellung,Empfehlung
+CP12,Hersteller,A1,Akquisition,Kundenprofil,Kommunikation/Email,Indirekt,Weiterempfehlung,
+CP12,Hersteller,B1,Bindung,Kundenprofil,Kommunikation/Email,Direkt,Kommunikation/Email,Nachkaufsnachricht
+CP12,Hersteller,B1,Bindung,Kundenprofil,Kommunikation/Email,Indirekt,"Spezialangebote, Anregungsanfrage","Spezialangebote, Anregungsanfrage"
+CP12,Hersteller,B1.1,Bindung,Kundenprofil,Kommunikation/Email,Indirekt,Spezialangebote,Nachkaufsnachricht
+CP12,Hersteller,B1.2,Bindung,Kundenprofil,Kommunikation/Email,Indirekt,Anregungsanfrage,"Spezialangebote, Anregungsanfrage"
+CP12,Hersteller,B1.3,Bindung,Kundenprofil,Kommunikation/Email,Direkt,Kommunikation/Email,Nachkaufsnachricht
+CP12,Hersteller,B1.4,Bindung,Kundenprofil,Kommunikation/Email,Direkt,Kommunikation/Email,Nachkaufsnachricht
+CP12,Hersteller,B2,Bindung,Kundenprofil,Kommunikation/Email,Indirekt,Sponsorship,Sponsorship
+CP12,Hersteller,B2,Bindung,Kundenprofil,Kommunikation/Email,Indirekt,Nachschubservice,Erinnerung
+CP13,Zwischenhändler,A1,Akquisition,Upload,Offline Material,Direkt,Offline Material,
+CP13,Zwischenhändler,B1,Bindung,Upload,Offline Material,Indirekt,Anregungsanfrage,Anregungsanfrage
+CP13,Zwischenhändler,B1.2,Bindung,Upload,Offline Material,Indirekt,Anregungsanfrage,Anregungsanfrage
+CP14,Zwischenhändler,A2,Akquisition,Kamera,Mobile Darstellung,Indirekt,Vorteil,
+CP14,Zwischenhändler,B1,Bindung,Kamera,Mobile Darstellung,Indirekt,Messung,Messung
+CP14,Zwischenhändler,B1.5,Bindung,Kamera,Mobile Darstellung,Indirekt,Messung,Messung
+CP14,Zwischenhändler,B2,Bindung,Kamera,Mobile Darstellung,Direkt,Mobile Darstellung,Cross-Selling
+CP15,Zwischenhändler,B2,Bindung,Transaktionen,Kommunikation/Email,Direkt,Kommunikation/Email,Cross-Selling
+CP16,Hersteller,A1,Akquisition,In-store digital,Kommunikation/Email,Indirekt,In-store Teilnahme,
+CP16,Hersteller,A2,Akquisition,In-store digital,Kommunikation/Email,Direkt,Kommunikation/Email,
+CP16,Hersteller,B1,Bindung,In-store digital,Kommunikation/Email,Indirekt,"Innovationsimage, Anleitung durch Spezialisten",Anleitung durch Spezialisten
+CP16,Hersteller,B1.1,Bindung,In-store digital,Kommunikation/Email,Indirekt,Innovationsimage,Anleitung durch Spezialisten
+CP16,Hersteller,B1.5,Bindung,In-store digital,Kommunikation/Email,Indirekt,Anleitung durch Spezialisten,Anleitung durch Spezialisten
+CP16,Hersteller,B2,Bindung,In-store digital,Kommunikation/Email,Indirekt,Empfehlung,Cross-Selling
+CP17,Zwischenhändler,B2,Bindung,GPS Signal,Mobile Meldung,Direkt,Mobile Meldung,Erinnerung
+CP17,Zwischenhändler,B2,Bindung,Transaktionen,Mobile Meldung,Direkt,Mobile Meldung,Erinnerung
+CP18,Hersteller,B1,Bindung,Transaktionen,Kommunikation/Email,Direkt,Kommunikation/Email,Nachkaufsnachricht
+CP18,Hersteller,B1.4,Bindung,Transaktionen,Kommunikation/Email,Direkt,Kommunikation/Email,Nachkaufsnachricht
+CP18,Hersteller,B2,Bindung,Transaktionen,Kommunikation/Email,Direkt,Kommunikation/Email,Anreiz
+CP18,Hersteller,C,Rückgewinnung,Transaktionen,Kommunikation/Email,Direkt,Kommunikation/Email,Gutschein
+CP19,Hersteller,B2,Bindung,Transaktionen,Kommunikation/Email,Direkt,Kommunikation/Email,Nachschubservice
+CP20,Hersteller,A2,Akquisition,Quiz,Web Darstellung,Indirekt,Vorteil,
+CP21,Hersteller,B2,Bindung,Cookies,Web Darstellung,Direkt,Web Darstellung,Cross-Selling
+CP22,Zwischenhändler,B1,Bindung,Scan,Mobile Darstellung,Direkt,Mobile Darstellung,Augmented Reality
+CP22,Zwischenhändler,B1.5,Bindung,Scan,Mobile Darstellung,Direkt,Mobile Darstellung,Augmented Reality
+CP23,Hersteller,A1,Akquisition,Quiz,Offline Material,Indirekt,Share button,
+CP23,Hersteller,A2,Akquisition,Quiz,Offline Material,Indirekt,Erfordernis,
+CP24,Hersteller,B1,Bindung,Aktivitätsjournal,Mobile Darstellung,Indirekt,Gesundheitsaspekt,Gesundheitsaspekt
+CP24,Hersteller,B1.1,Bindung,Aktivitätsjournal,Mobile Darstellung,Indirekt,Gesundheitsaspekt,Gesundheitsaspekt
+CP25,Hersteller,A1,Akquisition,Kamera,Web Darstellung,Indirekt,Share button,
+CP25,Hersteller,A1,Akquisition,Präferenzen,Web Darstellung,Indirekt,Share button,
+CP25,Hersteller,A2,Akquisition,Kamera,Web Darstellung,Indirekt,Vorteil,
+CP25,Hersteller,A2,Akquisition,Präferenzen,Web Darstellung,Indirekt,Vorteil,
+CP25,Hersteller,B1,Bindung,Kamera,Web Darstellung,Indirekt,Geschenk,Geschenk
+CP25,Hersteller,B1,Bindung,Präferenzen,Web Darstellung,Indirekt,Geschenk,Geschenk
+CP25,Hersteller,B1.4,Bindung,Kamera,Web Darstellung,Indirekt,Geschenk,Geschenk
+CP25,Hersteller,B1.4,Bindung,Präferenzen,Web Darstellung,Indirekt,Geschenk,Geschenk
+CP26,Zwischenhändler,B2,Bindung,Cookies,Web Darstellung,Direkt,Web Darstellung,Empfehlung
+CP27,Partner,B1,Bindung,Scan,Mobile Darstellung,Indirekt,Messung,Messung
+CP27,Partner,B1,Bindung,Quiz,Mobile Darstellung,Indirekt,Messung,Messung
+CP27,Partner,B1.5,Bindung,Scan,Mobile Darstellung,Indirekt,Messung,Messung
+CP27,Partner,B1.5,Bindung,Quiz,Mobile Darstellung,Indirekt,Messung,Messung
+CP27,Partner,B2,Bindung,Scan,Mobile Darstellung,Indirekt,Empfehlung,Cross-Selling
+CP27,Partner,B2,Bindung,Quiz,Mobile Darstellung,Indirekt,Empfehlung,Cross-Selling
+CP29,Partner,A1,Akquisition,Quiz,Offline Material,Indirekt,Social Media,
+CP29,Partner,B2,Bindung,Quiz,Offline Material,Indirekt,Nachschubservice,Nachschubservice
+CP30,Zwischenhändler,A1,Akquisition,Kamera,Mobile Darstellung,Indirekt,Share button,
+CP30,Zwischenhändler,A2,Akquisition,Kamera,Mobile Darstellung,Indirekt,Erfordernis,
+CP30,Zwischenhändler,B2,Bindung,Kamera,Mobile Darstellung,Direkt,Mobile Darstellung,Empfehlung
+CP31,Hersteller,B1,Bindung,Cookies,Kommunikation/Email,Indirekt,"Geschenk, Überraschung","Geschenk, Überraschung"
+CP31,Hersteller,B1.1,Bindung,Cookies,Kommunikation/Email,Indirekt,Überraschung,"Geschenk, Überraschung"
+CP31,Hersteller,B1.4,Bindung,Cookies,Kommunikation/Email,Indirekt,Geschenk,"Geschenk, Überraschung"
+CP32,Hersteller,B1,Bindung,Quiz,Offline Material,Direkt,Offline Material,Massanfertigung
+CP32,Hersteller,B1.1,Bindung,Quiz,Offline Material,Direkt,Offline Material,Massanfertigung
+CP33,Zwischenhändler,B2,Bindung,Quiz,Kommunikation/Email,Direkt,Kommunikation/Email,Anreiz
+CP33,Zwischenhändler,B2,Bindung,Transaktionen,Kommunikation/Email,Direkt,Kommunikation/Email,Anreiz
+CP33,Zwischenhändler,B2,Bindung,Cookies,Kommunikation/Email,Direkt,Kommunikation/Email,Anreiz
+CP34,Zwischenhändler,A1,Akquisition,Quiz,Kommunikation/Email,Indirekt,Weiterempfehlung,
+CP34,Zwischenhändler,A1,Akquisition,Cookies,Kommunikation/Email,Indirekt,Weiterempfehlung,
+CP34,Zwischenhändler,A2,Akquisition,Quiz,Kommunikation/Email,Direkt,Kommunikation/Email,
+CP34,Zwischenhändler,A2,Akquisition,Cookies,Kommunikation/Email,Direkt,Kommunikation/Email,
+CP34,Zwischenhändler,B1,Bindung,Quiz,Kommunikation/Email,Indirekt,"Spezialangebote, Anregungsanfrage","Spezialangebote, Anregungsanfrage"
+CP34,Zwischenhändler,B1,Bindung,Transaktionen,Kommunikation/Email,Indirekt,"Spezialangebote, Anregungsanfrage","Spezialangebote, Anregungsanfrage"
+CP34,Zwischenhändler,B1,Bindung,Cookies,Kommunikation/Email,Indirekt,"Spezialangebote, Anregungsanfrage","Spezialangebote, Anregungsanfrage"
+CP34,Zwischenhändler,B1.1,Bindung,Quiz,Kommunikation/Email,Indirekt,Spezialangebote,"Spezialangebote, Anregungsanfrage"
+CP34,Zwischenhändler,B1.1,Bindung,Transaktionen,Kommunikation/Email,Indirekt,Spezialangebote,"Spezialangebote, Anregungsanfrage"
+CP34,Zwischenhändler,B1.1,Bindung,Cookies,Kommunikation/Email,Indirekt,Spezialangebote,"Spezialangebote, Anregungsanfrage"
+CP34,Zwischenhändler,B1.2,Bindung,Quiz,Kommunikation/Email,Indirekt,Anregungsanfrage,"Spezialangebote, Anregungsanfrage"
+CP34,Zwischenhändler,B1.2,Bindung,Transaktionen,Kommunikation/Email,Indirekt,Anregungsanfrage,"Spezialangebote, Anregungsanfrage"
+CP34,Zwischenhändler,B1.2,Bindung,Cookies,Kommunikation/Email,Indirekt,Anregungsanfrage,"Spezialangebote, Anregungsanfrage"
+CP34,Zwischenhändler,B2,Bindung,Quiz,Kommunikation/Email,Direkt,Kommunikation/Email,Anreiz
+CP34,Zwischenhändler,B2,Bindung,Transaktionen,Kommunikation/Email,Direkt,Kommunikation/Email,Anreiz
+CP34,Zwischenhändler,B2,Bindung,Cookies,Kommunikation/Email,Direkt,Kommunikation/Email,Anreiz
+CP35,Hersteller,A1,Akquisition,In-store digital,In-store Visualisierung,Direkt,In-store Visualisierung,
+CP36,Zwischenhändler,A2,Akquisition,Quiz,Web Darstellung,Indirekt,Vorteil,
+CP36,Zwischenhändler,B1,Bindung,Quiz,Web Darstellung,Direkt,Web Darstelllung,Video
+CP36,Zwischenhändler,B1.5,Bindung,Quiz,Web Darstellung,Direkt,Web Darstellung,Video
+CP36,Zwischenhändler,B2,Bindung,Quiz,Web Darstellung,Direkt,Web Darstellung,Cross-Selling
+CP37,Hersteller,A1,Akquisition,Quiz,Web Darstellung,Indirekt,Share button,
+CP37,Hersteller,A2,Akquisition,Quiz,Web Darstellung,Indirekt,Ladenbesuch,
+CP38,Hersteller,A1,Akquisition,Upload,Offline Material,Direkt,Offline Material,
+CP38,Hersteller,B1,Bindung,Upload,Offline Material,Direkt,Offline Material,Massanfertigung
+CP38,Hersteller,B1,Bindung,Upload,Offline Material,Direkt,Offline Material,Massanfertigung
+CP39,Zwischenhändler,B1,Bindung,Quiz,Web Darstellung,Indirekt,Überraschung,Überraschung
+CP39,Zwischenhändler,B1,Bindung,Cookies,Web Darstellung,Indirekt,Überraschung,Überraschung
+CP39,Zwischenhändler,B1.1,Bindung,Quiz,Web Darstellung,Indirekt,Überraschung,Überraschung
+CP39,Zwischenhändler,B1.1,Bindung,Cookies,Web Darstellung,Indirekt,Überraschung,Überraschung
+CP39,Zwischenhändler,B2,Bindung,Quiz,Web Darstellung,Direkt,Web Darstellung,Erinnerung
+CP39,Zwischenhändler,B2,Bindung,Cookies,Web Darstellung,Direkt,Web Darstellung,Erinnerung
+CP40,Hersteller,A1,Akquisition,Kamera,Web Ads,Indirekt,Share button,
+CP40,Hersteller,A2,Akquisition,Kamera,Web Ads,Indirekt,Erfordernis,
+CP40,Hersteller,B1,Bindung,Kamera,Web Ads,Direkt,Web Ads,Kundin als Model
+CP40,Hersteller,B1.1,Bindung,Kamera,Web Ads,Direkt,Web Ads,Kundin als Model
+CP40,Hersteller,B2,Bindung,Kamera,Web Ads,Indirekt,Empfehlung,Cross-Selling
+CP41,Hersteller,B1,Bindung,Quiz,Offline Material,Direkt,Offline Material,Nützlichkeit
+CP41,Hersteller,B1.1,Bindung,Quiz,Offline Material,Direkt,Offline Material,Nützlichkeit
+CP41,Hersteller,B2,Bindung,Quiz,Offline Material,Direkt,Offline Material,Anreiz
+CP42,Zwischenhändler,A1,Akquisition,Kamera,Offline Material,Indirekt,In-store Teilnahme,
+CP42,Zwischenhändler,A2,Akquisition,Kamera,Offline Material,Direkt,Offline Material,
+CP43,Zwischenhändler,B1,Bindung,Quiz,Offline Material,Direkt,Offline Material,Massanfertigung
+CP43,Zwischenhändler,B1.1,Bindung,Quiz,Offline Material,Direkt,Offline Material,Massanfertigung
+CP44,Zwischenhändler,B1,Bindung,Cookies,Mobile Darstellung,Direkt,Mobile Darstellung,"Spezialangebote, Vermerke"
+CP44,Zwischenhändler,B1,Bindung,Transaktionen,Mobile Darstellung,Direkt,Mobile Darstellung,"Spezialangebote, Vermerke"
+CP44,Zwischenhändler,B1.1,Bindung,Cookies,Mobile Darstellung,Direkt,Mobile Darstellung,"Spezialangebote, Vermerke"
+CP44,Zwischenhändler,B1.1,Bindung,Transaktionen,Mobile Darstellung,Direkt,Mobile Darstellung,"Spezialangebote, Vermerke"
+CP44,Zwischenhändler,B1.5,Bindung,Cookies,Mobile Darstellung,Direkt,Mobile Darstellung,"Spezialangebote, Vermerke"
+CP44,Zwischenhändler,B1.5,Bindung,Transaktionen,Mobile Darstellung,Direkt,Mobile Darstellung,"Spezialangebote, Vermerke"
+CP44,Zwischenhändler,B2,Bindung,Cookies,Mobile Darstellung,Direkt,Mobile Darstellung,Erinnerung
+CP44,Zwischenhändler,B2,Bindung,Transaktionen,Mobile Darstellung,Direkt,Mobile Darstellung,Erinnerung
+CP46,Hersteller,A1,Akquisition,In-store digital,In-store Visualisierung,Indirekt,Weiterempfehlung,
+CP46,Hersteller,A1,Akquisition,RFID,In-store Visualisierung,Indirekt,Weiterempfehlung,
+CP46,Hersteller,A2,Akquisition,In-store digital,In-store Visualisierung,Direkt,In-store Visualisierung,
+CP46,Hersteller,A2,Akquisition,RFID,In-store Visualisierung,Direkt,In-store Visualisierung,
+CP46,Hersteller,B1,Bindung,In-store digital,In-store Visualisierung,Direkt,In-store Visualisierung,Augmented Reality
+CP46,Hersteller,B1,Bindung,RFID,In-store Visualisierung,Direkt,In-store Visualisierung,Augmented Reality
+CP46,Hersteller,B1.5,Bindung,In-store digital,In-store Visualisierung,Direkt,In-store Visualisierung,Augmented Reality
+CP46,Hersteller,B1.5,Bindung,RFID,In-store Visualisierung,Direkt,In-store Visualisierung,Augmented Reality
+CP47,Hersteller,B1,Bindung,Transaktionen,Kommunikation/Email,Direkt,Kommunikation/Email,Nachhaken
+CP47,Hersteller,B1.2,Bindung,Transaktionen,Kommunikation/Email,Direkt,Kommunikation/Email,Nachhaken
+CP47,Hersteller,C,Rückgewinnung,Transaktionen,Kommunikation/Email,Direkt,Kommunikation/Email,Grunderkennung
+CP48,Hersteller,B1,Bindung,Standort,Web Darstellung,Direkt,Web Darstellung,Nützlichkeit
+CP48,Hersteller,B1.1,Bindung,Standort,Web Darstellung,Direkt,Web Darstellung,Nützlichkeit
+CP48,Hersteller,B2,Bindung,Standort,Web Darstellung,Direkt,Web Darstellung,Erinnerung
+CP49,Hersteller,A1,Akquisition,Cookies,Web Darstellung,Indirekt,Social Media,
+CP49,Hersteller,B1,Bindung,Cookies,Web Darstellung,Indirekt,Kontaktermutigung,Kontaktermutigung
+CP49,Hersteller,B1.2,Bindung,Cookies,Web Darstellung,Indirekt,Kontaktermutigung,Kontaktermutigung
+CP49,Hersteller,B1.3,Bindung,Cookies,Web Darstellung,Indirekt,Kontaktermutigung,Kontaktermutigung
+CP50,Zwischenhändler,B1,Bindung,Standort,In-store Visualisierung,Indirekt,Innovationsimage,Gamification
+CP50,Zwischenhändler,B1,Bindung,Transaktionen,In-store Visualisierung,Indirekt,Innovationsimage,Gamification
+CP50,Zwischenhändler,B1.1,Bindung,Standort,In-store Visualisierung,Indirekt,Innovationsimage,Gamification
+CP50,Zwischenhändler,B1.1,Bindung,Transaktionen,In-store Visualisierung,Indirekt,Innovationsimage,Gamification
+CP50,Zwischenhändler,B2,Bindung,Standort,In-store Visualisierung,Direkt,In-store Visualisierung,Anreiz
+CP50,Zwischenhändler,B2,Bindung,Transaktionen,In-store Visualisierung,Direkt,In-store Visualisierung,Anreiz
+CP51,Hersteller,A2,Akquisition,Cookies,Web Darstellung,Direkt,Web Darstellung,
+CP52,Hersteller,B1,Bindung,Transaktionen,Offline Material,Direkt,Offline Material,Nachkaufsnachricht
+CP52,Hersteller,B1.4,Bindung,Transaktionen,Offline Material,Direkt,Offline Material,Nachkaufsnachricht
